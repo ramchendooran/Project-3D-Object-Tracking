@@ -27,6 +27,6 @@
 3. Compile: `cmake .. && make`
 4. Run it: `./3D_object_tracking`.
 
-## Comparison of processing times for various detector desriptor combinations
+## Comparison of Time To Collision calculated using LiDAR and Camera
 
-<img src="images/lidar_camera_TTC.png" width="480" height="480" />
+<img src="images/lidar_camera_TTC.png" width="480" height="400" />
